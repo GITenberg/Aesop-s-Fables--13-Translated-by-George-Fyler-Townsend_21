@@ -1,0 +1,14 @@
+
+TITLE=Aesop's Fables
+AUTHOR=Aesop
+LANGUAGE=English
+TRANSLATOR=George Fyler Townsend
+CREDIT=
+NOTIFY=
+
+
+Nov 1991 Aesop's Fables                                    [aesopxxx.xxx]   21
+
+*****This is the Project Gutenberg Etext of Aesop's Fables*****
+*****This file should be named aesop11.txt or aesop11.zip******
+
