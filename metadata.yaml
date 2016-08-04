@@ -1,0 +1,36 @@
+_repo: Aesop-s-Fables--13-Translated-by-George-Fyler-Townsend_21
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Townsend, George Fyler
+    alias: Townsend, George Tyler
+    birthdate: 1814
+    deathdate: 1900
+    gutenberg_agent_id: '19'
+    url: http://www.gutenberg.org/2009/agents/19
+    wikipedia: http://en.wikipedia.org/wiki/George_Fyler_Townsend
+creator:
+  author:
+    agent_name: Aesop
+    alias: Æsop
+    gutenberg_agent_id: '18'
+    url: http://www.gutenberg.org/2009/agents/18
+    wikipedia: http://en.wikipedia.org/wiki/Aesop
+description: 'See also the early PG version #28, and comprehensive versions PG#11339
+  tr. by V. S. Vernon Jones, and illustrated PG#18732.'
+gutenberg_issued: '2008-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aesop''s fables -- Translations into English'
+- !lcc 'PA'
+- !lcc 'PZ'
+- !lcsh 'Fables, Greek -- Translations into English'
+- GITenberg
+title: "Aesop's Fables\r\nTranslated by George Fyler Townsend"
+url: http://www.gutenberg.org/ebooks/21
